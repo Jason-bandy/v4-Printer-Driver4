@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "v4 Printer Driver4", "v4 Printer Driver4.vcxproj", "{163C0E64-8BF8-4567-A9A7-61890D886610}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "v4 Printer Driver4 Render Filter", "..\v4 Printer Driver4 Render Filter\v4 Printer Driver4 Render Filter.vcxproj", "{936082F5-0D5A-4075-84E2-6935243A9191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|ARM64.Build.0 = Debug|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x64.ActiveCfg = Debug|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x64.Build.0 = Debug|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x64.Deploy.0 = Debug|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x86.ActiveCfg = Debug|Win32
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x86.Build.0 = Debug|Win32
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Debug|x86.Deploy.0 = Debug|Win32
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|ARM64.ActiveCfg = Release|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|ARM64.Build.0 = Release|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|ARM64.Deploy.0 = Release|ARM64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x64.ActiveCfg = Release|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x64.Build.0 = Release|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x64.Deploy.0 = Release|x64
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x86.ActiveCfg = Release|Win32
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x86.Build.0 = Release|Win32
+		{163C0E64-8BF8-4567-A9A7-61890D886610}.Release|x86.Deploy.0 = Release|Win32
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|ARM64.Build.0 = Debug|ARM64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|x64.ActiveCfg = Debug|x64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|x64.Build.0 = Debug|x64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|x86.ActiveCfg = Debug|Win32
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Debug|x86.Build.0 = Debug|Win32
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|ARM64.ActiveCfg = Release|ARM64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|ARM64.Build.0 = Release|ARM64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|x64.ActiveCfg = Release|x64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|x64.Build.0 = Release|x64
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|x86.ActiveCfg = Release|Win32
+		{936082F5-0D5A-4075-84E2-6935243A9191}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9593B544-2CA3-4D7C-8A10-A775F8B3EA42}
+	EndGlobalSection
+EndGlobal
